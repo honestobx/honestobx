@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-belem/)](https://www.linkedin.com/in/mariano-belem/)
 
 Cursando 4º período de Análise e Desenvolvimento de Sistemas. <br>
-Trabalho atualmente como estagiário com auxílio no desenvolvimento, testes e suporte do sistema Concilie, com MySQL, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
+Trabalho atualmente como estagiário com auxílio no desenvolvimento, testes e suporte do sistema Concilie, Banco de dados, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
 
 
 ![Mariano Belem GitHub status](https://github-readme-stats.vercel.app/api?username=honestobx&show_icons=true&theme=dark)
