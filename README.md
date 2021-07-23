@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-belem/)](https://www.linkedin.com/in/mariano-belem/)
 
-Cursando 4º período de Análise e Desenvolvimento de Sistemas. <br>
+Cursando 5º período de Análise e Desenvolvimento de Sistemas. <br>
 Trabalho atualmente como desenvolvedor, testes e suporte ao sistema Concilie, Banco de dados, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
 
 
