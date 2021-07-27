@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 
 Cursando 5º período de Análise e Desenvolvimento de Sistemas. <br>
 Trabalho atualmente como desenvolvedor, testes e suporte ao sistema Concilie, Banco de dados, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
-
+* Python
+* MySql
+* HTML/CSS
+* Grafana
 
 ![Mariano Belem GitHub status](https://github-readme-stats.vercel.app/api?username=honestobx&show_icons=true&theme=dark)
