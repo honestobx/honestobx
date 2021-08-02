@@ -23,9 +23,13 @@ Here are some ideas to get you started:
 Cursando 5º período de Análise e Desenvolvimento de Sistemas. <br>
 Trabalho atualmente como desenvolvedor, testes e suporte ao sistema Concilie, Banco de dados, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
 
-* Python
-* MySql
-* HTML/CSS
-* Grafana
+<div style="display: inline_block"><br>
+  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
+  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+</div><br>
+
 
 ![Mariano Belem GitHub status](https://github-readme-stats.vercel.app/api?username=honestobx&show_icons=true&theme=tokyonight)
+
