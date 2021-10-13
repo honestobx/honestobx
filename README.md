@@ -24,7 +24,7 @@ Cursando 5º período de Análise e Desenvolvimento de Sistemas. <br>
 Trabalho atualmente como desenvolvedor, testes e suporte ao sistema Concilie, Banco de dados, Grafana, AWS (Amazon Web Services) e suporte aos usuários.
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" >
+  <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" href="https://docs.python.org/pt-br/3/">
   <img align="center" alt="Honesto-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
   <img align="center" alt="Honesto-Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" >
   <img align="center" alt="Honesto-Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
