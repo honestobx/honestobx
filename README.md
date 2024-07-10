@@ -34,7 +34,7 @@ Trabalho atualmente como Software Developer, tester e suporte ao sistema Concili
   <img align="center" alt="Honesto-Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" ></a>
   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-170" target="_blank">
   <img align="center" alt="Honesto-C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" ></a>
-src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" >
+<src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" >
 </div><br>
 
 
