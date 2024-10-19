@@ -26,6 +26,8 @@ Trabalho atualmente como Software Developer, tester e suporte ao sistema Concili
 <div style="display: inline_block"><br>
   <a href="https://docs.python.org/pt-br/3/" target="_blank">
   <img align="center" alt="Honesto-Py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+  <img align="center" alt="Honesto-Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
   <a href="https://dev.mysql.com/doc/" target="_blank">
   <img align="center" alt="Honesto-Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" ></a>
   <a href="https://dev.w3.org/html5/html-author/" target="_blank">
