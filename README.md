@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mariano-belem/)](https://www.linkedin.com/in/mariano-belem/)
 
 Formado em Análise e Desenvolvimento de Sistemas. <br>
-Trabalho atualmente como Software Developer, tester e suporte ao sistema Concilie. Trabalhando com banco de dado e ferramentas como Grafana, AWS (Amazon Web Services), Quicksight(AWS) e analise de dados.
+Trabalho atualmente como Software Developer, tester sistema Concilie e já trabalhei com a parte suporte da mesma também. Trabalhando com banco de dado e ferramentas como AWS (Amazon Web Services), Quicksight(AWS) e analise de dados.
 
 <div style="display: inline_block"><br>
   <a href="https://docs.python.org/pt-br/3/" target="_blank">
